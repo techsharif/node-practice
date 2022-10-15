@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/techsharif/node-practice/issues"
   },
-  "homepage": "https://github.com/techsharif/node-practice#readme"
+  "homepage": "https://github.com/techsharif/node-practice#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
